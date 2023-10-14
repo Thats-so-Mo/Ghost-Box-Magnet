@@ -15,10 +15,10 @@ int current_stations=0, new_stations=0;
 //Specifying the Webserver instance to connect with HTTP Port: 80
 ESP8266WebServer server(80);
  
-//Specifying the Pins connected from magnet to LED4
+//Specifying the Pins connected from magnet to Magnet
 uint8_t magnet_pin=D1;
  
-//Specifying the boolean variables indicating the status of magnet to LED4
+//Specifying the boolean variables indicating the status of magnet to Magnet
 bool magnet_status=false;
  
 void setup() {
@@ -26,7 +26,7 @@ void setup() {
   Serial.begin(115200);
   Serial.println();
  
-  //Output mode for the LED Pins
+  //Output mode for the magnet Pins
   pinMode(magnet_pin,OUTPUT);
    
   //Setting the AP Mode with SSID, Password, and Max Connection Limit
@@ -76,7 +76,7 @@ void loop() {
     Serial.println(current_stations);
   }
  
-  //Turn the LEDs ON/OFF as per their status set by the connected client
+  //Turn the magnet ON/OFF as per their status set by the connected client
    
   //magnet
   if(magnet_status==false)
