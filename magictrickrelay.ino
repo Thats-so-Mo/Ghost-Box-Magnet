@@ -15,10 +15,10 @@ int current_stations=0, new_stations=0;
 //Specifying the Webserver instance to connect with HTTP Port: 80
 ESP8266WebServer server(80);
  
-//Specifying the Pins connected from magnet to Magnet
+//Specifying the Pins connected from magnet to Wemos
 uint8_t magnet_pin=D1;
  
-//Specifying the boolean variables indicating the status of magnet to Magnet
+//Specifying the boolean variables indicating the status of wemos to Magnet
 bool magnet_status=false;
  
 void setup() {
