@@ -8,8 +8,43 @@ One of the spookiest and BEST features of this project is that it's entirely bat
 
 Special thanks to Awais Naeem from embedded-robotics.com for providing the foundation of the code, which was further spookified for this magical Halloween creation by me. 
 
-Perfect for adding an extra layer of spookiness to your Halloween celebrations and other supernatural-themed performances! 🎃👻🔔🕸️💀## Check out the video for a demonstration
+Perfect for adding an extra layer of spookiness to your Halloween celebrations and other supernatural-themed performances! 🎃👻🔔🕸️💀
 
 
 ## Check out the video for a demonstration
 [![Thumbnail of Youtube Video based upon this fantastic and brilliant project](https://i.ibb.co/cXZM1jh/thumbnail.png)](https://www.youtube.com/watch?v=KbHJlr8aNq8)
+
+## Ingredients
+
+ Materials Used:
+
+    Wemos D1 Mini (Arduino programmed) - eBay
+    Electromagnet - https://bit.ly/3FBBS0W (NOTE: don't leave it on for greater than a minute or else it will overheat IF theres nothing attached to it) WOoooo Firery Spirit
+    MOSFET Power Switch Module - https://bit.ly/47aGjeH
+    LiPo Lithium Battery (3.7V @ 2400mAh) - https://bit.ly/3MHneJF
+    1N4001 Diode - https://bit.ly/3MgfApa
+    TP4056 Li-ion LiPo Battery Charging Board - eBay
+    USB Micro BreakOut Board - eBay
+    Fabric - Provided by Deep
+    Wooden Box
+    Bell
+    Heat Shrink Tubing
+    Paddle Pop Sticks
+    Solder
+    On/Off SPST Switch
+
+ Tools:
+
+    Clippers
+    Pliers
+    Fabric Adhesive Spray
+    Wood Glue
+    Soldering Iron
+    SandPaper
+    Bhangra Spirit
+
+   and a few other bits and bobs....
+
+## Wiring Diagram
+
+![Wiring Diagram](https://i.ibb.co/mh7Pc0d/Wiring-Diagramv2.png)
