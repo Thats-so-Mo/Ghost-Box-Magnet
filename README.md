@@ -16,6 +16,9 @@ Perfect for adding an extra layer of spookiness to your Halloween celebrations a
 
 ## Ingredients
 
+Required library:
+ESP8266WiFI and ESP8266WebServer Library - Easily Installable through the Arduino Software - Thanks to its creators
+
  Materials Used:
 
     Wemos D1 Mini (Arduino programmed) - eBay
@@ -48,3 +51,9 @@ Perfect for adding an extra layer of spookiness to your Halloween celebrations a
 ## Wiring Diagram
 
 ![Wiring Diagram](https://i.ibb.co/mh7Pc0d/Wiring-Diagramv2.png)
+
+## Explaination
+
+Only two really important sections that I need to explain:
+
+
