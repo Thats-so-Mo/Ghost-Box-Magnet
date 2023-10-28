@@ -58,21 +58,21 @@ ESP8266WiFI and ESP8266WebServer Library - Easily Installable through the Arduin
 
 Only Three really important sections that I need to explain:
 
-First one is this:
+### First one is this:
 
 ![1st](https://i.ibb.co/1fYcKDx/1.png)
 
 This is where you can change the the Wireless Access point and/or Password and which pin is the mosfet attached to, to make it easier on yourself. 
 
 
-Second Section:
+### Second Section:
 
 ![2st](https://i.ibb.co/h2dsSKN/2.png)
 
 This section is where you adjust the duration of the magnet.
 
 
-Third Section:
+### Third Section:
 
 ![3st](https://i.ibb.co/THzbMcW/3.png)
 
