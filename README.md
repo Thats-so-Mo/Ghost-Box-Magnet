@@ -54,7 +54,7 @@ ESP8266WiFI and ESP8266WebServer Library - Easily Installable through the Arduin
 
 ![Wiring Diagram](https://i.ibb.co/mh7Pc0d/Wiring-Diagramv2.png)
 
-## Explaination
+## Explanation
 
 Only Three really important sections that I need to explain:
 
